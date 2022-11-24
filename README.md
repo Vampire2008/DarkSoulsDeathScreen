@@ -1,10 +1,9 @@
 # DarkSoulsDeathScreen
 Fork of World of Warcraft addon that show Dark Souls style You died message.
+[Original mod](https://www.curseforge.com/wow/addons/dark-souls-death-screen) not updated sinse 6.0.3 patch.
 
 ## Dragonflight
 Now maitained by Aethyx. Use his version. [Link](https://www.curseforge.com/wow/addons/dark-souls-death-screen-by-aethyx).
-
-[Original mod](https://www.curseforge.com/wow/addons/dark-souls-death-screen) not updated sinse 6.0.3 patch.
 
 ## Changes
  * Fixed displaying You Died message on 9.1.5
